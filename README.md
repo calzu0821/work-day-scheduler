@@ -38,11 +38,11 @@ To use the Work Day Scheduler, follow these steps:
 
 Deployed website:
 
-
+https://calzu0821.github.io/work-day-scheduler/
 
 Screenshot of the Work Day Scheduler:
 
-![alt text](./assets/images) ![alt text](./assets/images) ![alt text](./assets/images) 
+![alt text](./assets/images/scheduler-screenshot1.png) ![alt text](./assets/images/scheduler-screenshot2.png) ![alt text](./assets/images/scheduler-screenshot3.png) 
 
 ## Credits
 
